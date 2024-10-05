@@ -1,0 +1,29 @@
+.alert {
+    box-shadow: inset 0 0 .5em #ccc;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    background-color: #fbfaf9;
+    padding: 1em;
+}
+
+/*.alert-info {
+
+}*/
+
+.alert-warning {
+    box-shadow: inset 0 0 .5em #c9a486;
+    border: 1px solid #c49f81;
+    background-color: #ffdaae;
+}
+
+.alert-danger {
+    box-shadow: inset 0 0 .5em #c98686;
+    border: 1px solid #c48181;
+    background-color: #ffaeae;
+}
+
+.alert-success {
+    box-shadow: inset 0 0 .5em #8fc986;
+    border: 1px solid #82c481;
+    background-color: #baffae;
+}
